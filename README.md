@@ -1,4 +1,4 @@
-# WeCollect — MTGDex
+# WeCollect
 
 > Gestor de colección y constructor de mazos para TCGs, construido con React + Capacitor para Android e iOS.
 
