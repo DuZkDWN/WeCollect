@@ -7,7 +7,7 @@
 ## ✨ Características principales
 
 ### 🃏 Colección
-- Añade cartas de **Magic** y **Pokémon** en una sola colección unificada.
+- Añade cartas de **TCGs** en una sola colección unificada.
 - Precios en tiempo real desde **Scryfall** (€ y USD con conversión automática).
 - Caché de precios de 24 h para reducir peticiones a la API.
 - Filtros avanzados: color, tipo, formato, CMC, precio, condición, idioma y carpeta.
